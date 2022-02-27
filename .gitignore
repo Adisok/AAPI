@@ -1,0 +1,6 @@
+.python-version
+cumulus/
+data/
+.idea/
+.env
+__pycache__
